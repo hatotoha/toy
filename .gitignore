@@ -21,3 +21,8 @@
 /yarn-error.log
 
 .byebug_history
+
+# add
+.DS_Store
+/config/database.yml
+/config/secrets.yml
